@@ -1,0 +1,42 @@
+[
+    {
+        "barcode": "100001",
+        "name": "Milk 1 Liter",
+        "category": "Dairy",
+        "price": "45.00",
+        "stock": 30,
+        "discount": "5.00"
+    },
+    {
+        "barcode": "100002",
+        "name": "White Bread",
+        "category": "Bakery",
+        "price": "20.00",
+        "stock": 40,
+        "discount": "0.00"
+    },
+    {
+        "barcode": "100003",
+        "name": "Potato Chips",
+        "category": "Snacks",
+        "price": "35.00",
+        "stock": 25,
+        "discount": "10.00"
+    },
+    {
+        "barcode": "100004",
+        "name": "Orange Juice",
+        "category": "Beverages",
+        "price": "60.00",
+        "stock": 20,
+        "discount": "15.00"
+    },
+    {
+        "barcode": "100005",
+        "name": "Tuna Can",
+        "category": "Canned Food",
+        "price": "55.00",
+        "stock": 15,
+        "discount": "8.00"
+    }
+]
